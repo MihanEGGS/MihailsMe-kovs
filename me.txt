@@ -1,0 +1,44 @@
+POMODORO TAIMERIS
+Lietotnes nosaukums: Pomodoro taimeris
+
+Lietotnes mērķis: Izveidot vienkāršu un efektīvu rīku darba laika pārvaldībai un produktivitātes palielināšanai, izmantojot Pomodoro metodoloģiju.
+
+Platformas: lietotne tiek izstrādāta iOS un Android operētājsistēmām.
+
+Funkcionālās prasības:
+
+  Pomodoro taimeris:
+  
+        -Spēja iestatīt darba intervāla ilgumu (parasti 25 minūtes).
+        -Spēja iestatīt pārtraukuma ilgumu starp intervāliem (parasti 5 minūtes).
+        -Atlikušā laika parādīšana
+  Uzdevumi:
+      
+        -Pievienojiet uzdevumus, kurus lietotājs plāno veikt kā daļu no Pomodoro sesijām.
+        -Pēc katras sesijas atzīmējiet uzdevumu kā pabeigtu.
+        -Skatiet uzdevumu sarakstu un to statusu.
+  Paziņojumus:
+    
+        -Atbalsts paziņojumiem par katras Pomodoro sesijas sākumu un beigām.
+        -Saskarne:
+        
+        -Intuitīvs un pievilcīgs lietotāja interfeiss.
+        -Spēja izvēlēties dizaina tēmu (gaiša/tumša).  
+  Specifikācijas:
+
+        -Daudzvalodu atbalsts.
+        -Saglabājiet lietotāja datus lokāli ierīcē.
+        -Lietotāju datu aizsardzība un konfidencialitāte.
+        -Atbalsts dažādām mobilo ierīču ekrāna izšķirtspējām.
+Testēšana:
+
+        -Testēšana dažādās ierīcēs ar dažādām operētājsistēmas versijām.
+        -Taimera un paziņojumu funkcionalitātes testēšana.
+        -Pārbaudiet lietojumprogrammas datu saglabāšanu un atgūšanu.
+Papildu piezīmes:
+
+ -Šīs lietojumprogrammas ieviešanai jābūt pēc iespējas vienkāršākai un intuitīvākai, lai lietotājs varētu koncentrēties uz savu darbu, nevis uz lietojumprogrammas konfigurēšanu.
+ -Ir svarīgi sekot līdzi veiktspējai un optimizācijai, lai lietotne negatīvi neietekmētu ierīci.
+
+
+Pēc lietotnes izstrādes ieteicams veikt testēšanu ar lietotājiem un saņemt atsauksmes, lai uzlabotu lietotāja pieredzi.
